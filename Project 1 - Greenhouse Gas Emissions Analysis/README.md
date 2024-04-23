@@ -1,3 +1,20 @@
+# Greenhouse Gas Emissions Analysis in Ukraine (2016-2021)
+## Installation
+
+To work with this project, follow these steps:
+
+- Download and Install Anaconda Navigator: Visit the Anaconda website and download the Anaconda distribution suitable for your operating system. Follow the installation instructions provided on the website to install Anaconda Navigator.
+- Launch Anaconda Navigator: After installing Anaconda Navigator, launch the application. You can typically find it in your applications menu or by searching for "Anaconda Navigator" in your system's search bar.
+- Create or Activate an Environment: Before opening the project, ensure you have created or activated an environment in Anaconda Navigator where you want to work on the project. If you're unsure how to do this, refer to the Anaconda Navigator documentation or tutorials on managing environments.
+- Install Required Packages: Once you have your environment set up, ensure that it includes the necessary packages for the project, such as Pandas and Seaborn. You can install these packages directly within Anaconda Navigator. Once you've launched Anaconda Navigator, navigate to the "Environments" tab. Here, you'll see a list of environments along with the packages installed in each one. You can search for specific packages, install new ones, or update existing ones from this interface.
+- Launch Jupyter Notebook: In Anaconda Navigator, locate and click on the Jupyter Notebook icon. This will launch the Jupyter Notebook interface in your default web browser.
+- Navigate to the Project Directory: Using the file browser interface in Jupyter Notebook, navigate to the directory where you have saved the project files.
+- Open the Jupyter Notebook File: Once you've located your project directory, click on the Jupyter Notebook file (with the .ipynb extension) to open it in the Jupyter Notebook editor.
+- Run the Notebook Cells: With the Jupyter Notebook file open, you can now execute the cells containing your preprocessing and visualization code by clicking on the cells and pressing Shift + Enter. This will run the code and generate the outputs as specified in the notebook.
+- Exploring the Project: Explore the project by interacting with the code, modifying parameters, and observing the results. You can also add your own analysis or visualizations as needed.
+- To view the visualizations included in this project, you will need to have PowerBI installed on your system. PowerBI is a powerful data visualization tool developed by Microsoft. You can download it from the official website. Please ensure that you have PowerBI installed before attempting to open the visualization file.
+
+## Gas Compounds Breakdown
 It's important to understand a general impact of each of greenhouse gas compound. A little research and a break down here will help us to understand the nature of the missing values in this dataset.
 
 1. **Nitrogen oxides (NO2)** is a reddish-brown, water-soluble trace gas, formed through the oxidation of nitric oxide (NO) in combustion processes.

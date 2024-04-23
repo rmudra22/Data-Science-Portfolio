@@ -11,13 +11,9 @@ I'm Rusya, and I'm learning Data Analysis and Data Science with mostly an open s
 
 ## Portfolio Projects
 ### Greenhouse Gas Emissions Analysis in Ukraine (2016 - 2021)
-**Code:**
-
-**PowerBI Visualization:**
-
-**README:**
-
-**Description:**
+**Description:** The Greenhouse Gas Emissions Analysis project provides a comprehensive examination of greenhouse gas emissions across various sectors over a five-year period (2016 - 2021). Utilizing a combination of Excel, Python (with Pandas for data manipulation and Matplotlib/Seaborn for visualization), and Power BI, this analysis offers valuable insights into the environmental impact of different economic activities.   
+This project contains .csv files with datasets were used, Jupyter Notebook file with a code for a data preprocessing, ReadMe file for a deeper understanding of the compounds' nature, PowerBI visualization file.   
+**Path:**  [Project 1 - Greenhouse Gas Emissions in Ukraine (2016 - 2021)](https://github.com/rmudra22/Data-Analysis-Portfolio/tree/main/Project%201%20-%20Greenhouse%20Gas%20Emissions%20Analysis)    
 
 
 ## Contacts

@@ -17,7 +17,7 @@ This project contains .csv files with datasets were used, Jupyter Notebook file 
 
 ### Exploratory Notebooks
 **Description:** This section is a collection of my learning journey in data science, where I’ve gathered notebooks from different courses and projects. Each one represents a new skill I’ve tackled—whether it’s data cleaning, visualizations, or diving into machine learning basics. Through these exercises, I’ve not only practiced essential techniques but also explored my own ideas and approaches along the way. As I keep learning, I’ll be adding more notebooks with new topics and deeper analyses.  
-**Path:**
+**Path:** [Exploratory Notebooks](https://github.com/rmudra22/Data-Science-Portfolio/tree/main/Exploratory-Notebooks)
 
 
 ## Contacts
